@@ -9,3 +9,4 @@ import 'bootstrap'
 
 //JS Files
 import './js/core/includes'
+import './js/plugins/cityButtons'
